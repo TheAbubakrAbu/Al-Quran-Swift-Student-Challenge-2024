@@ -3,6 +3,7 @@
 This repository contains my Swift Student Challenge 2024 submission: **Al-Quran**, an iOS Swift Playground app designed to help users engage with the Quranic text in a beginner-friendly and intuitive way. I was honored to be one of the 350 winners worldwide, earning the opportunity to visit Apple Park during WWDC 2024. The app is based on my iOS app, [Al-Quran | Beginner Quran](https://apps.apple.com/us/app/al-quran-beginner-quran/id6474894373?platform=iphone).
 
 This project showcases my passion for designing educational tools that make Islamic studies accessible for everyone, especially beginners. Using Swift Playground, the app creates an interactive and engaging user experience, aligning with Apple's vision of fostering creativity and innovation through code.
+Submitted in February 2024.
 
 ## Features
 
