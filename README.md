@@ -41,7 +41,7 @@ I would love to hear your thoughts and suggestions! Feel free to open an issue o
 ## Contact
 
 For feedback, feature requests, or questions, feel free to reach out:
-- **Email**: ammelmallah@icloud.com
+- **Email**: contact@abubakrelmallah.com
 - **Website**: [abubakrelmallah.com](https://abubakrelmallah.com/)
 - **LinkedIn**: [linkedin.com/abubakr](https://www.linkedin.com/in/abubakr-elmallah-416a0b273/)
 
